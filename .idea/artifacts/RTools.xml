@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RTools">
+    <output-path>$PROJECT_DIR$/out/artifacts/RTools</output-path>
+    <root id="archive" name="RTools.jar">
+      <element id="module-output" name="IntelliJ Workspace" />
+    </root>
+  </artifact>
+</component>
